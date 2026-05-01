@@ -2,20 +2,6 @@
 
 A comprehensive desktop billing application built with Python Tkinter for small cafes and restaurants. This system allows cashiers to quickly generate bills, apply discounts, and maintain customer records.
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [How to Use](#how-to-use)
-- [Screenshots](#screenshots)
-- [Project Structure](#project-structure)
-- [Test Cases](#test-cases)
-- [Learning Outcomes](#learning-outcomes)
-- [Future Enhancements](#future-enhancements)
-- [Author](#author)
-- [License](#license)
-
 ## 🎯 Overview
 
 This Cafe Billing System is designed to streamline the counter sales process in small food establishments. It replaces manual calculations with an automated system that handles item selection, quantity management, discount application, and professional receipt generation.
@@ -85,5 +71,5 @@ This Cafe Billing System is designed to streamline the counter sales process in 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/tkinter-cafe-billing-system.git
+git clone https://github.com/AtqaAsma016/cafe-counter-billing-system-AIlab9.git
 cd tkinter-cafe-billing-system
